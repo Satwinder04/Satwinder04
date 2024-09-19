@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs, NextJs, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Satwinder04](https://github.com/Satwinder04)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-vite-app.vercel.app/)
 
 - 💬 Ask me about **Html, CSS, Js, React, TailwindCss, Bootstrap,ap,**
 
