@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-vite-app.vercel.app/)
 
-- 💬 Ask me about **Html, CSS, Js, React, TailwindCss, Bootstrap,ap,**
+- 💬 Ask me about **Html, CSS, Js, React, TailwindCss, Bootstrap,**
 
 - 📫 How to reach me **satwindersalan@gmail.com**
 
