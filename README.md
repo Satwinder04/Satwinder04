@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Automation Testing**
 
-- 🌱 I’m currently learning **Selenium with puthon**
+- 🌱 I’m currently learning **Selenium with python**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-vite-app.vercel.app/)
 
