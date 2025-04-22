@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satwinder04&label=Profile%20views&color=0e75b6&style=flat" alt="satwinder04" /> </p>
 
-- 🔭 I’m currently working on **Automation Testing**
-
 - 🌱 I’m currently learning **Selenium with python**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-vite-app.vercel.app/)
 
-- 📫 How to reach me **satwindersalan@gmail.com**
+- 📫 How to reach me **satwindersalan04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
